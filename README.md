@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a 1st year Information Technology student at Fontys
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=graywhite)
 
 <!--
