@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm a 1st year Information Technology student at Fontys
-
 
 <!--
 **kepmehz/kepmehz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
